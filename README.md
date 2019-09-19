@@ -40,7 +40,7 @@ $ npx cap add android
 
 7) Abra a IDE para buildar sua aplicação
 ```sh
-$ npx cap open androis
+$ npx cap open android
 ```
 
 Isso irá abrir o Android Studio, carregar os plugins necessários e construir sua aplicação
