@@ -1,6 +1,8 @@
 Como criar um App Ionic para Android
 ====================================
 
+Veja também: https://github.com/erlimar/create-js-android-app
+
 1) Instale o NodeJS
 > https://nodejs.org
 
